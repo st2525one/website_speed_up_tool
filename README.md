@@ -1,0 +1,2 @@
+# website_speed_up_tool
+LLMにこのリポジトリ丸ごとdocker環境を用意すると、サイトのURLを投げるだけでより高速なウェブサイトの構築が可能
